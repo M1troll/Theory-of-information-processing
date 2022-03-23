@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73fb8625-29fe-4628-a73d-a912fe4b4817": {
+      "ProjectGuid": "73fb8625-29fe-4628-a73d-a912fe4b4817",
+      "DisplayName": "FiniteStateMachine",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

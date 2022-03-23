@@ -1,0 +1,12 @@
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\bin\Debug\FiniteStateMachine.exe.config
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\bin\Debug\FiniteStateMachine.exe
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\bin\Debug\FiniteStateMachine.pdb
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.csproj.AssemblyReference.cache
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.csproj.SuggestedBindingRedirects.cache
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.Form1.resources
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.Properties.Resources.resources
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.csproj.GenerateResource.cache
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.csproj.CoreCompileInputs.cache
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.exe
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.pdb
+D:\Users\Mitrol\Desktop\шкъёля\ТОИ\л1\project\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.ResultForm.resources
